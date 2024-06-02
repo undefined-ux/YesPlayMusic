@@ -119,11 +119,11 @@ module.exports = {
           target: [
             {
               target: 'portable',
-              arch: ['x64', 'arm64'],
+              arch: ['arm64'],
             },
             {
               target: 'nsis',
-              arch: ['x64', 'arm64'],
+              arch: ['arm64'],
             },
           ],
           publisherName: 'YesPlayMusic',
